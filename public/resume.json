@@ -1,162 +1,108 @@
 {
-    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
-    "basics": {
-      "name": "Richard Hendriks",
-      "label": "Programmer",
-      "image": "",
-      "email": "richard.hendriks@mail.com",
-      "phone": "(912) 555-4321",
-      "url": "http://richardhendricks.example.com",
-      "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
-      "location": {
-        "address": "2712 Broadway St",
-        "postalCode": "CA 94115",
-        "city": "San Francisco",
-        "countryCode": "US",
-        "region": "California"
-      },
-      "profiles": [
-        {
-          "network": "Twitter",
-          "username": "neutralthoughts",
-          "url": ""
-        },
-        {
-          "network": "SoundCloud",
-          "username": "dandymusicnl",
-          "url": "https://soundcloud.example.com/dandymusicnl"
-        }
-      ]
+  "basics": {
+    "name": "Thibault Barillon",
+    "label": "Senior Product Manager",
+    "picture": "",
+    "email": "v67hyjnw@duck.com",
+    "website": "https://thibault.bar",
+    "summary": "A technically-minded Senior Product Manager passionate about delivering products that bring meaningful value to customers and the broader market. I run on curiosity, empathy and pragmatism to enable customers to successfully deliver their outcomes of today and tomorrow. My interests range from neuroscience, engineering and cybersecurity to art and music (you may already know me as 1/6th of Robocobra Quartet).",
+ "location": {
+      "city": "Belfast",
+      "countryCode": "NI"
     },
-    "work": [
+    "profiles": [
       {
-        "name": "Pied Piper",
-        "location": "Palo Alto, CA",
-        "description": "Awesome compression company",
-        "position": "CEO/President",
-        "url": "http://piedpiper.example.com",
-        "startDate": "2013-12-01",
-        "endDate": "2014-12-01",
-        "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
-        "highlights": [
-          "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-          "Successfully won Techcrunch Disrupt",
-          "Optimized an algorithm that holds the current world record for Weisman Scores"
-        ]
+        "network": "LinkedIn",
+        "username": "thibaultbarillon",
+        "url": "https://www.linkedin.com/in/thibaultbarillon/"
       }
-    ],
-    "volunteer": [
-      {
-        "organization": "CoderDojo",
-        "position": "Teacher",
-        "url": "http://coderdojo.example.com/",
-        "startDate": "2012-01-01",
-        "endDate": "2013-01-01",
-        "summary": "Global movement of free coding clubs for young people.",
-        "highlights": [
-          "Awarded 'Teacher of the Month'"
-        ]
-      }
-    ],
-    "education": [
-      {
-        "institution": "University of Oklahoma",
-        "url": "https://www.ou.edu/",
-        "area": "Information Technology",
-        "studyType": "Bachelor",
-        "startDate": "2011-06-01",
-        "endDate": "2014-01-01",
-        "gpa": "4.0",
-        "courses": [
-          "DB1101 - Basic SQL",
-          "CS2011 - Java Introduction"
-        ]
-      }
-    ],
-    "awards": [
-      {
-        "title": "Digital Compression Pioneer Award",
-        "date": "2014-11-01",
-        "awarder": "Techcrunch",
-        "summary": "There is no spoon."
-      }
-    ],
-    "publications": [
-      {
-        "name": "Video compression for 3d media",
-        "publisher": "Hooli",
-        "releaseDate": "2014-10-01",
-        "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-        "summary": "Innovative middle-out compression algorithm that changes the way we store data."
-      }
-    ],
-    "skills": [
-      {
-        "name": "Web Development",
-        "level": "Master",
-        "keywords": [
-          "HTML",
-          "CSS",
-          "Javascript"
-        ]
-      },
-      {
-        "name": "Compression",
-        "level": "Master",
-        "keywords": [
-          "Mpeg",
-          "MP4",
-          "GIF"
-        ]
-      }
-    ],
-    "languages": [
-      {
-        "language": "English",
-        "fluency": "Native speaker"
-      }
-    ],
-    "interests": [
-      {
-        "name": "Wildlife",
-        "keywords": [
-          "Ferrets",
-          "Unicorns"
-        ]
-      }
-    ],
-    "references": [
-      {
-        "name": "Erlich Bachman",
-        "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-      }
-    ],
-    "projects": [
-      {
-        "name": "Miss Direction",
-        "description": "A mapping engine that misguides you",
-        "highlights": [ 
-          "Won award at AIHacks 2016",
-          "Built by all women team of newbie programmers",
-          "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
-        ],
-        "keywords": [
-          "GoogleMaps", "Chrome Extension", "Javascript"
-        ],
-        "startDate": "2016-08-24",
-        "endDate": "2016-08-24", 
-        "url": "missdirection.example.com",
-        "roles": [ 
-          "Team lead", "Designer"
-        ],
-        "entity": "Smoogle",
-        "type": "application"
-      }
-    ],
-    "meta": {
-      "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
-      "version": "v1.0.0",
-      "lastModified": "2017-12-24T15:53:00"
+          ]
+  },
+  "work": [
+    {
+      "company": "IBM",
+      "position": "Senior Product Manager for SaaS Customer Success",
+      "website": "https://www.ibm.com/security",
+      "startDate": "November 2023",
+      "endDate": "",
+      "summary": " Senior Product Manager focusing on portfolio Transformation to SaaS, with a keen focus on Customer Success and weaving in Gen AI to augment Security Operations. I am currently building and leading a program to understand customer success for IBM Security SaaS offerings, and embed a SaaS First mindset, behaviours and activities in all groups involved throughout the SaaS customer journey.",
+      "highlights": []
+    },
+{
+      "company": "IBM",
+      "position": "Senior Product Manager",
+      "website": "https://www.ibm.com/security",
+      "startDate": "January 2021",
+      "endDate": "November 2023",
+      "summary": " Senior Product Manager at IBM Security for Threat Detection & Response, specialising in SIEM and XDR. I've been principally focused on Product Lifecycle, Strategy and Portfolio Transformation.",
+      "highlights": []
     }
-  }
-  
+ ,{
+      "company": "IBM",
+      "position": "Product Manager",
+      "website": "https://www.ibm.com/security",
+      "startDate": "September 2018",
+      "endDate": "January 2021",
+      "summary": " Product Manager for QRadar SIEM, working with multiple distributed teams to bring to market innovations that deliver on customer outcomes.",
+      "highlights": []
+    }
+,{
+      "company": "IBM",
+      "position": "Development Lead & Product Owner",
+      "website": "https://www.ibm.com/security",
+      "startDate": "January 2017",
+      "endDate": "Auhust 2018",
+      "summary": " Development Lead and Product Owner for IBM QRadar Vulnerability Manager. I focused on leading the team, prioritising features with all stakeholders and advocating for customers. I also prepared architectural options for vetting by the architecture team. High focus on scalability, quality and accuracy, and alternative feature delivery methods to enable continuous delivery outside of platform release cycle. Stack: Java, PostgreSQL, Perl, Docker, Python, bash, RHEL. ",
+      "highlights": []
+    },
+{
+      "company": "IBM",
+      "position": "Software Engineer",
+      "website": "https://www.ibm.com/security",
+      "startDate": "January 2013",
+      "endDate": "December 2016",
+      "summary": "Software Engineer and then Senior Software Engineer on the QRadar Platform. Working on high performance and scalability vulnerability assessment and SIEM for the QRadar platform, as well as building the first version of the App framework for the QRadar platform and designing and building the first developer SDK, for which I received an IBM Outstanding Technical Achievement Award. Stack: Python, Docker, PostgreSQL, RHEL, Java, Perl ",
+      "highlights": []
+    },{
+      "company": "Edenpod/TradeHero (Singapore)",
+      "position": "Software Engineer",
+      "website": "https://finovate.com/ahead-anticipated-ipo-ayondo-acquires-tradehero/",
+      "startDate": "March 2012",
+      "endDate": "September 2012",
+      "summary": "Intern at iOS apps incubator Edenpod in Singapore, working on multiple iOS apps and games. One of them led to spin-off TradeHero, of which I became the second Software Engineer and worked on both iOS client development and building our first server infrasructure using a .NET stack, and building our Continuous Integration pipeline for both front-end and back-end using Jenkins. ",
+      "highlights": []
+    } ],
+
+  "education": [
+    {
+      "institution": "Queen's University Belfast",
+      "area": "Computer Science",
+      "studyType": "Erasmus Semester (MSc)<br><br>-",
+      "startDate": "September 2011",
+      "endDate": "January 2012"
+    },
+    {
+      "institution": "INSA Rennes (France)",
+      "area": "Computer Science",
+      "studyType": "Diplome d'Ingenieur - Masters Degree/MSc in Engineering",
+      "startDate": "September 2017",
+      "endDate": "June 2022"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Album of The Year",
+      "date": "2022",
+      "awarder": "NI Music Prize",
+"summary": "Awarded to **Robocobra Quartet** for _Living Isn't Easy_ (First Taste Records)<br><br>---"
+    },    
+{
+      "title": "Outstanding Technical Achievement Award (OTAA)",
+      "date": "2016",
+      "awarder": "IBM",
+      "summary": "OTAA for the QRadar App Framework and SDK."
+    }
+  ]
+
+}
+
